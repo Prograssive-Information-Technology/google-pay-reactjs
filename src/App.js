@@ -58,7 +58,7 @@ function App() {
 			currencyCode: "USD",
 			countryCode: "US",
 		},
-		environment: "TEST", // Set environment to PRODUCTION for live use
+		environment: "PRODUCTION", // Set environment to PRODUCTION for live use
 	};
 
 	return (
@@ -80,7 +80,7 @@ function App() {
 				</div>
 				<GooglePayButton
 					className="google-pay-button"
-					environment="TEST"
+					environment="PRODUCTION"
 					paymentRequest={paymentRequest}
 					onLoadPaymentData={handlePaymentSuccess}
 					onError={handlePaymentError}
