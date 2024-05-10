@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Buy Me A Coffee Page with Google Pay Integration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Buy Me A Coffee page! This project allows you to create a visually appealing and user-friendly webpage where your supporters can donate to you using Google Pay.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Google Pay Integration:** Seamlessly accept donations using Google Pay with secure payment processing.
+- **Customizable Donation Amount:** Users can input their desired donation amount for flexibility.
+- **Motivational Speeches:** Inspire your supporters with coffee-related motivational speeches on the donation page.
+- **Live Environment Support:** Easily switch between test and live environments for Google Pay integration.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To get started with this project, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `npm install`.
+3. Customize the `App.js` file with your Merchant ID and other configurations.
+4. Run the project locally using `npm start`.
+5. Test the integration with both test and live environments.
 
-### `npm test`
+## Hire Me!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Looking for a talented developer to join your team or work on your next project? Look no further!
 
-### `npm run build`
+**Julkarnine Rokey** is a skilled backend engineer with expertise in MERN Stack, PHP, React Native, and DevOps. With a proven track record of delivering high-quality solutions, Julkarnine is your go-to developer for turning your ideas into reality.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Contact Information:**
+- Email: julkarninerokey@gmail.com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Don't miss out on the opportunity to work with Julkarnine Rokey. Get in touch today and take your projects to the next level!
