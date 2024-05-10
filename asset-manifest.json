@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-pay-reactjs/static/css/main.d3419627.css",
+    "main.js": "/google-pay-reactjs/static/js/main.a9cfed25.js",
+    "static/js/453.e20addb9.chunk.js": "/google-pay-reactjs/static/js/453.e20addb9.chunk.js",
+    "index.html": "/google-pay-reactjs/index.html",
+    "main.d3419627.css.map": "/google-pay-reactjs/static/css/main.d3419627.css.map",
+    "main.a9cfed25.js.map": "/google-pay-reactjs/static/js/main.a9cfed25.js.map",
+    "453.e20addb9.chunk.js.map": "/google-pay-reactjs/static/js/453.e20addb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3419627.css",
+    "static/js/main.a9cfed25.js"
+  ]
+}
